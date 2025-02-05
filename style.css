@@ -1,0 +1,13 @@
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-raduis: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rbga(0, 0, 0, 0.1);
+}
+.container h1 {
+    text-align: center;
+}
